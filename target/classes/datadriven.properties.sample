@@ -1,8 +1,2 @@
-username=admin3
-password=Aangine1234@
 url=https://www.amazon.com/
 browser=chrome
-fireDriver=webdriver.gecko.driver
-fireLocation=C:\\Users\\ahmet\\Documents\\drivers\\geckodriver.exe
-chromeDriver=webdriver.chrome.driver
-chromeLocation=/Users/optiim/Documents/chromedriver

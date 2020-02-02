@@ -2,10 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0fcc9856-c6bb-4a28-bbd4-5577febbce72" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/deployment/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/grid/project/ta/config/BrowserSettings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/grid/project/ta/config/BrowserSettings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/grid/project/ta/baseTest/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/grid/project/ta/baseTest/BaseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/grid/project/ta/config/BrowserSettings.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/grid/project/ta/config/BrowserSettings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/grid/project/ta/tests/CommonPaths.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/grid/project/ta/tests/CommonPaths.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/grid/project/ta/tests/GridTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/grid/project/ta/tests/GridTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/datadriven.properties.sample" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/datadriven.properties.sample" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/deployment/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/deployment/JenkinsFileMethodology" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/deployment/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/nameAttributes" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +139,7 @@
       <workItem from="1580298547789" duration="15377000" />
       <workItem from="1580384319763" duration="4562000" />
       <workItem from="1580430591618" duration="14815000" />
-      <workItem from="1580639666241" duration="4172000" />
+      <workItem from="1580639666241" duration="5489000" />
     </task>
     <servers />
   </component>
@@ -159,40 +167,40 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="378" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.800@0.0.1280.800" timestamp="1580644335517" />
-    <state width="1238" height="385" key="GridCell.Tab.0.bottom" timestamp="1580601083525">
+    <state width="1238" height="182" key="GridCell.Tab.0.bottom" timestamp="1580653873716">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="385" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1580601083525" />
+    <state width="1238" height="182" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1580653873716" />
     <state width="1238" height="187" key="GridCell.Tab.0.bottom/0.23.1280.709@0.23.1280.709" timestamp="1580209072224" />
     <state width="1238" height="192" key="GridCell.Tab.0.bottom/0.23.1280.710@0.23.1280.710" timestamp="1580305381741" />
     <state width="1238" height="110" key="GridCell.Tab.0.bottom/0.23.1280.713@0.23.1280.713" timestamp="1580401061553" />
     <state width="1238" height="75" key="GridCell.Tab.0.bottom/0.23.1280.715@0.23.1280.715" timestamp="1580472453964" />
     <state width="1238" height="228" key="GridCell.Tab.0.bottom/0.23.1280.716@0.23.1280.716" timestamp="1580379811836" />
     <state width="1238" height="192" key="GridCell.Tab.0.bottom/0.23.1280.721@0.23.1280.721" timestamp="1580379126826" />
-    <state width="1238" height="385" key="GridCell.Tab.0.center" timestamp="1580601083519">
+    <state width="1238" height="182" key="GridCell.Tab.0.center" timestamp="1580653873710">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="385" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1580601083519" />
+    <state width="1238" height="182" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1580653873710" />
     <state width="1238" height="187" key="GridCell.Tab.0.center/0.23.1280.709@0.23.1280.709" timestamp="1580209072205" />
     <state width="1238" height="192" key="GridCell.Tab.0.center/0.23.1280.710@0.23.1280.710" timestamp="1580305381735" />
     <state width="1238" height="110" key="GridCell.Tab.0.center/0.23.1280.713@0.23.1280.713" timestamp="1580401061546" />
     <state width="1238" height="75" key="GridCell.Tab.0.center/0.23.1280.715@0.23.1280.715" timestamp="1580472453958" />
     <state width="1238" height="228" key="GridCell.Tab.0.center/0.23.1280.716@0.23.1280.716" timestamp="1580379811831" />
     <state width="1238" height="192" key="GridCell.Tab.0.center/0.23.1280.721@0.23.1280.721" timestamp="1580379126821" />
-    <state width="1238" height="385" key="GridCell.Tab.0.left" timestamp="1580601083517">
+    <state width="1238" height="182" key="GridCell.Tab.0.left" timestamp="1580653873706">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="385" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1580601083517" />
+    <state width="1238" height="182" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1580653873706" />
     <state width="1238" height="187" key="GridCell.Tab.0.left/0.23.1280.709@0.23.1280.709" timestamp="1580209072200" />
     <state width="1238" height="192" key="GridCell.Tab.0.left/0.23.1280.710@0.23.1280.710" timestamp="1580305381730" />
     <state width="1238" height="110" key="GridCell.Tab.0.left/0.23.1280.713@0.23.1280.713" timestamp="1580401061541" />
     <state width="1238" height="75" key="GridCell.Tab.0.left/0.23.1280.715@0.23.1280.715" timestamp="1580472453948" />
     <state width="1238" height="228" key="GridCell.Tab.0.left/0.23.1280.716@0.23.1280.716" timestamp="1580379811826" />
     <state width="1238" height="192" key="GridCell.Tab.0.left/0.23.1280.721@0.23.1280.721" timestamp="1580379126819" />
-    <state width="1238" height="385" key="GridCell.Tab.0.right" timestamp="1580601083522">
+    <state width="1238" height="182" key="GridCell.Tab.0.right" timestamp="1580653873713">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="385" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1580601083522" />
+    <state width="1238" height="182" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1580653873713" />
     <state width="1238" height="187" key="GridCell.Tab.0.right/0.23.1280.709@0.23.1280.709" timestamp="1580209072209" />
     <state width="1238" height="192" key="GridCell.Tab.0.right/0.23.1280.710@0.23.1280.710" timestamp="1580305381737" />
     <state width="1238" height="110" key="GridCell.Tab.0.right/0.23.1280.713@0.23.1280.713" timestamp="1580401061548" />

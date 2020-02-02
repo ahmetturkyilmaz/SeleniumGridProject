@@ -37,8 +37,9 @@ public class BrowserSettings {
         capability.setCapability("--disable-accelerated-jpeg-decoding", true);
 
         if (dataDrivenProperties.getProperty("browser").equals("chrome")) {
+            String browserId = "http://172.19.0.3:5555";
             String localhost = "localhost:4444";
-            driver = new RemoteWebDriver(new URL("http://" + localhost + "/wd/hub"), capability);
+            driver = new RemoteWebDriver(new URL("http://" + browserId + "/wd/hub"), capability);
 
         }
         return driver;

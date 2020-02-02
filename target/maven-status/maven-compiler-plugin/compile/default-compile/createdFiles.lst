@@ -1,0 +1,5 @@
+com/grid/project/ta/tests/GridTests.class
+com/grid/project/ta/tests/CommonPaths.class
+com/grid/project/ta/utils/WebDriverHelper.class
+com/grid/project/ta/config/BrowserSettings.class
+com/grid/project/ta/baseTest/BaseTest.class
